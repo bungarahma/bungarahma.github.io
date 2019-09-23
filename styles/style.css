@@ -1,0 +1,35 @@
+/* Start Body */
+body {
+    /* Property */
+    background-color: coral;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1,5em;
+    margin: 20;
+    padding: 0;
+}
+/* End Body */
+
+/* Start Debug */
+.bg-alice {
+    background-color: aliceblue;
+}
+.bg-orange {
+    background-color: coral;
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10x auto;
+    overflow: auto;
+    width: 100%;
+}
+/* End Container */
+
+/* Start Logo */
+.logo {
+    text-align: center;
+}
+/* End Logo */
